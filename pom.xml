@@ -49,7 +49,6 @@
 	</build>
 
 	<profiles>
-
         <profile>
             <id>dev</id>
             <activation>

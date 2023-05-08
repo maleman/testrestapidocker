@@ -61,9 +61,9 @@
         </profile>
 
         <profile>
-            <id>prod</id>
+            <id>gclp</id>
             <properties>
-                <activatedProperties>prod</activatedProperties>
+                <activatedProperties>gclp</activatedProperties>
             </properties>
         </profile>
     </profiles>
